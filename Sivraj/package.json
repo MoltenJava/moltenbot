@@ -1,0 +1,19 @@
+{
+  "name": "Molten",
+  "version": "0.0.1",
+  "description": "A multi-purpose Discord bot, the perfect blend of human and machine",
+  "main": "index.js",
+  "dependencies": {
+    "couleurs": "^6.0.8",
+    "discord.js": "github:hydrabolt/discord.js#master",
+    "discord.js-commando": "github:gawdl3y/discord.js-commando",
+    "image-to-ascii": "^3.0.7",
+    "window-size": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya Shapouri",
+  "license": "ISC"
+}
